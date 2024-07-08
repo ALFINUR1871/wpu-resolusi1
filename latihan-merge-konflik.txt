@@ -2,4 +2,4 @@ konflik 1 nih
 dan ini konflik 2
 1.
 b.
-c.
+3.
