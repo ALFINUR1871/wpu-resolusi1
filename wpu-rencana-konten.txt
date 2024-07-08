@@ -1,5 +1,5 @@
 RENCANA KONTEN WPU
 -bikin video php
 -video pyhton
-1.
-2.
+1. video dasar python
+2. video python data science
